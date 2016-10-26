@@ -1,0 +1,8 @@
+F:\Struts2\Struts2\Struts2\bin\Debug\Struts2.exe.config
+F:\Struts2\Struts2\Struts2\bin\Debug\Struts2.exe
+F:\Struts2\Struts2\Struts2\bin\Debug\Struts2.pdb
+F:\Struts2\Struts2\Struts2\obj\Debug\Struts2.Form1.resources
+F:\Struts2\Struts2\Struts2\obj\Debug\Struts2.Properties.Resources.resources
+F:\Struts2\Struts2\Struts2\obj\Debug\Struts2.csproj.GenerateResource.Cache
+F:\Struts2\Struts2\Struts2\obj\Debug\Struts2.exe
+F:\Struts2\Struts2\Struts2\obj\Debug\Struts2.pdb
